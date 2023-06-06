@@ -1,7 +1,6 @@
 # ResourceEmbedder
 
 Cmake script designed to embed any resource file into the executable at compile time.
-Cmake script designed to embed any resource file into the executable at compile time.
 
 # USAGE:
 1) Use "set(EMBEDDED_RESOURCES <file_path1> [: <variable_name1>]
