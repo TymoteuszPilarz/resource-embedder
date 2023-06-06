@@ -14,6 +14,6 @@ It will automatically generate necessary header and source files, which then you
 
 # NOTES:
 - Variable names are optional, if you don't specify any name, it will be set to "filename_extension"
-- If the name of the variable is already in use, it will be set to "variable_name1", "variable_name2", etc.
+- If the name of the variable is already in use (e.g., "variable_name"), it will be set to "variable_name1", "variable_name2", etc.
 - The working directory is set to the parent's directory which invokes "add_subdirectory()", but absolute paths
   will work as well
