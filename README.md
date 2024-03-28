@@ -1,4 +1,4 @@
-# ResourceEmbedder
+# Resource Embedder
 
 Cmake script designed to embed any resource file into the executable at compile time.
 It will automatically generate necessary header and source files, which then you can use in the manner demonstrated below.
